@@ -25,7 +25,7 @@ class PrimerParcial2021 {
 		final String DIRECTOR_ESPERADO = "Carlos Galettini";
 		final String ACTOR_1_ESPERADO = "Guillermo Francella";
 		final String ACTOR_2_ESPERADO = "Emilio Disi";
-		
+		//gabi 
 		// Ejecución
 		Pelicula pelicula = new Pelicula(GENERO_ESPERADO, ANO_DE_ESTRENO_ESPERADO, DIRECTOR_ESPERADO);
 		pelicula.agregarActor(ACTOR_1_ESPERADO);
